@@ -1,0 +1,119 @@
+body {
+    margin: 0;
+}
+
+.container {
+    padding-top: 115px;
+    padding-left: 52px;
+width: 550px;
+height: 550px;
+left: 642px;
+top: 64px;
+
+background: #1F2937;
+}
+
+
+h1 {
+
+width: 354px;
+height: 80px;
+left: 52px;
+top: 115px;
+
+font-family: 'Karlabold';
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 40px;
+/* or 100% */
+
+letter-spacing: -0.025em;
+}
+
+h2 {
+    font-size: larger;
+    font-family: 'InterV';
+    color: #D5D4D8;
+}
+
+.firsth {
+    margin-bottom: -60px;
+   color: #FFFFFF;
+   font-family: 'Karlabold';
+   
+
+}
+
+.secondh {
+    margin-bottom: -49px;
+    color: #4ADF86
+}
+
+@font-face {
+    font-family: 'Karlabold';
+    src: url(Karla-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'InterV';
+    src: url(Inter-V.ttf);
+}
+
+@font-face {
+    font-family: 'InterR';
+    src: url(Inter-Regular.otf)
+}
+
+.headingbox {
+    width: 390px;
+}
+
+.newbox {
+    width: 450px;
+    
+    border-bottom: 1px solid #2F3E53;
+    height: 260px;
+    
+}
+
+.firstbtn {
+    border: none;
+    font-family: 'InterR';
+    margin-top: 51px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    width: 191px;
+    height: 42px;
+    left: 52px;
+    top: 284px;
+    box-shadow: 0px 1px 2px rgb(0 0 0 / 5%);
+    border-radius: 6px;
+    background: #10B981;
+}
+
+.btn2, .btn3 {
+    font-family: 'InterReg';
+    border: none;
+    margin-top: 24px;
+    width: 211px;
+height: 39px;
+left: 52px;
+top: 396px;
+
+background: #273549;
+border-radius: 6px;
+}
+
+.btn3 {
+    margin-left: 24px;
+}
+
+div {
+    width: 483px;
+}
+
+
